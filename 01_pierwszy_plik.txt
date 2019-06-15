@@ -1,2 +1,3 @@
+Zmiana linijki 
 Pierwsza linijka
 Druga linijka
